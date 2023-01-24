@@ -43,7 +43,7 @@ This is the first challenge developed during the ONE - Oracle Next Education pro
 
 ## :computer: Installation ##
 
-No installation required, you can download the zipped project.
+No installation required. See the project HERE or clone the repository with git clone https://github.com/arlendev/alura-oracle-one-t4
 
 
 ## :memo: License ##
@@ -52,7 +52,7 @@ This project is under MIT license. See the [LICENSE](LICENSE) file for more deta
 
 ## :v: Credits ##
 
-Partial credits [Lucas Souza](https://github.com/lucasdev3)
+No credits
 
 ## :pencil2: Author ##
 
