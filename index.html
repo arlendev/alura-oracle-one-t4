@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Decodificador</title>
+    <link rel="stylesheet" href="assets/css/normalize.css" />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+    <link rel="icon" type="image/png" href="assets/img/faviconKey.png" />
+  </head>
+
+  <body>
+    <div class="container">
+      <header>
+        <div class="containerHeader">
+          <img class="logo" src="assets/img/logo.png" alt="">
+          <h1 class="appName">Decodificador</h1>
+        </div>
+      </header>
+
+      <main>
+        <div class="containerMain">
+          <div class="inputArea">
+            <label class="labelText">Mensagem</label>
+            <textarea class="inputText" id="textArea" placeholder="Digite seu texto aqui"></textarea>
+            <div class="buttonsArea">
+              <button class="btn" id="encryptBtn">Criptografar</button>
+              <button class="btn" id="decryptBtn">Descriptografar</button>
+            </div>
+          </div>
+          <div class="outputArea">
+            <label class="labelText">Resultado</label>
+            <textarea class="outputText" id="contentPhrase" placeholder="Nenhuma mensagem criptografada"></textarea>
+            <div class="buttonsArea">
+              <button class="btn" id="copyBtn">Copiar texto</button>
+            </div>
+          </div>
+        </div>
+      </main>
+
+      <footer>
+        <div class="containerFooter">
+          <div class="author">
+            <p>Desenvolvido por Arlen Possamai | 2023</p>
+          </div>
+          <div>
+            <ul class="social">
+              <li>
+                <a href="https://www.linkedin.com/in/arlen-possamai-9899791a9/" target="_blank"><img src="assets/img/linkedinBlue.png"></a>
+              </li>
+              <li>
+                <a href="https://github.com/arlendev" target="_blank"><img src="assets/img/githubBlue.png"></a>
+              </li>
+              <li>
+                <a href="https://arlendev.github.io/portfolio/" target="_blank"><img src="assets/img/arlenBlue.png"></a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/arlen.possamai" target="_blank"><img src="assets/img/facebookBlue.png"></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script src="assets/js/index.js"></script>
+  </body>
+</html>
