@@ -1,13 +1,12 @@
-# alura-oracle-one-t4
-
 <!-- About the project -->
 
 <div align="center" id="top"> 
   <img src="assets/img/exemple.png" alt="image description" />
 
-  &#xa0;
+&#xa0;
 
 </div>
+<hr/>
 
 <h1 align="center">Text Encoder and Decoder</h1>
 
@@ -29,11 +28,11 @@
   <a href="#pencil2-author">Author</a>
 </p>
 
-<br>
+&#xa0;
 
 ## :dart: About ##
 
-This is the first challenge developed during the ONE - Oracle Next Education program, with the aim of putting the contents studied into practice. The challenge is to create a text encoder/decoder using knowledge in HTML, CSS and JavaScript acquired during the classes. Cards were made available in Trello to guide and manage the development of the project and a proposed styling model in Figma.
+This is the first challenge developed during the Oracle-ONE / Alura program, with the aim of putting the contents studied into practice. The challenge is to create a text encoder/decoder using knowledge in HTML, CSS and JavaScript acquired during the classes. Cards were made available in Trello to guide and manage the development of the project and a proposed styling model in Figma.
 
 ## :rocket: Technologies ##
 
@@ -43,7 +42,7 @@ This is the first challenge developed during the ONE - Oracle Next Education pro
 
 ## :computer: Installation ##
 
-No installation required, you can download the zipped project.
+No installation required. See the project [HERE](https://arlendev.github.io/alura-oracle-one-t4/) or clone the repository with git clone https://github.com/arlendev/alura-oracle-one-t4
 
 
 ## :memo: License ##
@@ -52,7 +51,7 @@ This project is under MIT license. See the [LICENSE](LICENSE) file for more deta
 
 ## :v: Credits ##
 
-Partial credits [Lucas Souza](https://github.com/lucasdev3)
+No credits
 
 ## :pencil2: Author ##
 
