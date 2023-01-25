@@ -30,6 +30,12 @@
 
 &#xa0;
 
+## :trophy: Challenge Badge ##
+
+<div align="center">
+  <img src="assets/img/challenge-badge.png" alt="Badge" width="auto" height="200">
+</div>
+
 ## :dart: About ##
 
 This is the first challenge developed during the Oracle-ONE / Alura program, with the aim of putting the contents studied into practice. The challenge is to create a text encoder/decoder using knowledge in HTML, CSS and JavaScript acquired during the classes. Cards were made available in Trello to guide and manage the development of the project and a proposed styling model in Figma.
